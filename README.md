@@ -1,2 +1,3 @@
-# ssoss91
-AI
+# hello-world
+
+I am gonna learn the AI.
